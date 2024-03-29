@@ -1,0 +1,49 @@
+user1:
+  url: ""
+  port: 5000
+  id: 12384
+  name: "Luna Bramley"
+  age: 7
+  department: "Technical Art"
+  role: "Technical Artist"
+  machine: "Fury"
+
+user2:
+  url: ""
+  port: 5000
+  id: 15648
+  name: "Saskia Bramley"
+  age: 6
+  department: "2D"
+  role: "2D Artist"
+  machine: "Joshua"
+
+user3:
+  url: ""
+  port: 5000
+  id: 12562
+  name: "Aniah Bramley"
+  age: 4
+  department: "2D"
+  role: "BG Artist"
+  machine: "Minor"
+
+user4:
+  url: ""
+  port: 5000
+  id: 13362
+  name: "Luke Lim"
+  age: 8
+  department: "Anim"
+  role: "Anim Artist"
+  machine: "Cricket"
+
+user5:
+  url: ""
+  port: 5000
+  id: 12222
+  name: "Evie Lim"
+  age: 4
+  department: "Layout"
+  role: "Layout Artist"
+  machine: "Soccer"

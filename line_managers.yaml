@@ -1,0 +1,39 @@
+user1:
+  url: ""
+  port: 5000
+  id: 22444
+  name: "Joshua Bramley"
+  age: 36
+  department: "Technical Art"
+  role: "CG Line Manager"
+  machine: "LENWS22"
+
+user2:
+  url: ""
+  port: 5000
+  id: 44344
+  name: "Putri Bramley"
+  age: 36
+  department: "2D"
+  role: "2D Line Manager"
+  machine: "LENWS23"
+
+user3:
+  url: ""
+  port: 5000
+  id: 44342
+  name: "Andrew Lim"
+  age: 35
+  department: "Anim"
+  role: "Anim Line Manager"
+  machine: "LENWS24"
+
+user4:
+  url: ""
+  port: 5000
+  id: 43342
+  name: "Meg Lim"
+  age: 34
+  department: "Layout"
+  role: "Layout Line Manager"
+  machine: "LENWS25"

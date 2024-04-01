@@ -1,5 +1,4 @@
 import os
-import sys
 import hou
 
 #Houdini HDA script for Publishing bgeo cache

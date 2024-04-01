@@ -1,5 +1,6 @@
 import os
 import hou
+import sys
 
 #Houdini HDA script for Publishing bgeo cache
 
@@ -10,7 +11,7 @@ class Publisher:
         default_path = hou.pwd().parm("file").evalAsString()
 
         #Save location derived from user environment variable
-        dest_path = $GOOGLE_DRIVE
+        dest_path = "G:/My Drive/dev/production_assets"
 
         try:
             file_version = len([file for file in os.listdir(dest_path) if file.endswith("bgeo.sc")])+1
